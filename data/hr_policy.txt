@@ -1,0 +1,3 @@
+Employees are entitled to 20 days of annual leave per year.
+Annual leave must be approved by the reporting manager.
+Unused leave cannot be carried forward to the next year.
